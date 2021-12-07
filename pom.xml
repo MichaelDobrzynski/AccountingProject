@@ -56,15 +56,7 @@
             <artifactId>jsr305</artifactId>
             <version>3.0.2</version>
         </dependency>
-    </dependencies>
-
-  <plugins>
-         <plugin>
-  <groupId>org.jacoco</groupId>
-  <artifactId>jacoco-maven-plugin</artifactId>
-  <version>3.3.0</version>
-         </plugin>
-         </plugins>
+         </dependencies>
          
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
