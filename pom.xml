@@ -11,7 +11,7 @@
              <repository>
                       <id>accountingProject.deploy</id>
                       <name>Accounting Project</name>
-                      <url>C:\Fall2021\SOFT410\AccountingProjectDeploy</url>
+                      <url>file:///C:\Fall2021\SOFT410\AccountingProjectDeploy</url>
              </repository>
          </distributionManagement>
     <dependencies>
