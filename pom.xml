@@ -67,7 +67,7 @@
     <plugins>
              <plugin>
                       <groupId>org.jacoco</groupId>
-                      <artifactId>org.codehaus.plexus:plexus-utils:3.2.1</artifactId>
+                      <artifactId>jacoco-maven-plugin</artifactId>
                       <version>3.3.0</version>
                       <executions>
                                <execution>
