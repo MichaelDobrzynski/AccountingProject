@@ -62,4 +62,28 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
+    
+         <!--
+    <plugins>
+             <plugin>
+                      <groupId>org.jacoco</groupId>
+                      <artifactId>org.codehaus.plexus:plexus-utils:3.2.1</artifactId>
+                      <version>3.3.0</version>
+                      <executions>
+                               <execution>
+                                        <goals>
+                                                 <goal>prepare-agent</goal>
+                                        </goals>
+                               </execution>
+                               <execution>
+                                        <id>report</id>
+                                        <phase>prepare-package</phase>
+                                        <goals>
+                                                 <goal>report</goal>
+                                        </goals>
+                               </execution>
+                      </executions>
+             </plugin>
+         </plugins>
+         -->                                                 
 </project>
