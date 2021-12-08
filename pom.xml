@@ -64,7 +64,10 @@
     </properties>
     
          
-    <plugins>
+
+
+         <build>
+           <plugins>
              <plugin>
                       <groupId>org.jacoco</groupId>
                       <artifactId>jacoco-maven-plugin</artifactId>
@@ -85,8 +88,6 @@
                       </executions>
              </plugin>
          </plugins>
-
-         <build>
             <testResources>
             <testResource>
                 <directory>C:\Fall2021\SOFT410\AccountingProject\AccountingProject\src\test\resources</directory>
