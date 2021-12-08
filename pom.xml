@@ -87,11 +87,11 @@
          </plugins>
 -->
          <build>
-            <resources>
-            <resource>
+            <testResources>
+            <testResource>
                 <directory>C:\Fall2021\SOFT410\AccountingProject\AccountingProject\src\test\resources</directory>
                 <filtering>true</filtering>
-            </resource>
-            </resources>                                                     
+            </testResource>
+            </testResources>                                                     
          </build>
 </project>
