@@ -86,10 +86,12 @@
              </plugin>
          </plugins>
 -->
-     <resources>
+         <build>
+            <resources>
             <resource>
                 <directory>C:\Fall2021\SOFT410\AccountingProject\AccountingProject\src\test\resources</directory>
                 <filtering>true</filtering>
             </resource>
-        </resources>                                                     
+            </resources>                                                     
+         </build>
 </project>
