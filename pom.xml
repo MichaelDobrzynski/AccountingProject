@@ -63,7 +63,7 @@
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
     
-     <!--    
+         
     <plugins>
              <plugin>
                       <groupId>org.jacoco</groupId>
@@ -85,7 +85,7 @@
                       </executions>
              </plugin>
          </plugins>
--->
+
          <build>
             <testResources>
             <testResource>
